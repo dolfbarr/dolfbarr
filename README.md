@@ -1,6 +1,6 @@
 ### Hi! I’m Dolf Barr 👋
 
-a frontend engineer at @invitae based in Belgrade, Serbia. 
+a frontend engineer at [@invitae](https://github.com/invitae) based in Belgrade, Serbia. 
 I like to be on the edge of business problem solving and appeal for users, and believe that soft skills and clean code matter.
 
 <!--
