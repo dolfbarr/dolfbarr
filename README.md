@@ -4,6 +4,9 @@ a frontend engineer at [@invitae](https://github.com/invitae) & [@quantumsoftgro
 
 I'm passionate about web and, especially, frontend development. I like to be on the edge of solving business problems & appeal for users and believe that soft skills and clean code matter.
 
+- 🔭 I’m currently working on [🪵 react-log-hook](https://github.com/dolfbarr/react-log-hook)
+- 📫 How to reach me: [mail@dolf.me](mailto:mail@dolf.me)
+
 <!--
 **dolfbarr/dolfbarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
