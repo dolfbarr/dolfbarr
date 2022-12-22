@@ -1,6 +1,6 @@
 ### Hi! I’m Dolf Barr 👋
 
-a frontend engineer at [@invitae](https://github.com/invitae) & [@quantumsoftgroup](https://github.com/quantumsoftgroup) based in Belgrade, Serbia.
+a frontend engineer at [@invitae](https://github.com/invitae) & [@quantumsoftgroup](https://github.com/quantumsoftgroup) based in 📍 Belgrade, Serbia.
 
 I'm passionate about web and, especially, frontend development. I like to be on the edge of solving business problems & appeal for users and believe that soft skills and clean code matter.
 
